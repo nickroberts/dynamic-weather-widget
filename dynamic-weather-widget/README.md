@@ -1,4 +1,4 @@
-# Übersicht Weather Widget
+# Übersicht Dynamic Weather Widget
 
 This is a weather widget based on the weather widget from https://github.com/felixhageloh/weather-widget
 

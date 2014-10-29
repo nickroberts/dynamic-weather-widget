@@ -1,4 +1,4 @@
-# Übersicht Weather Widget
+# Übersicht Dynamic Weather Widget
 
 Made for [Übersicht](http://tracesof.net/uebersicht/)
 
