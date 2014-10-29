@@ -6,6 +6,8 @@ This also can be dynamic, based on your location (via your current ip address).
 
 ## Setup
 
+You will need to edit some configurations in the `weather.py` file.
+
 ### Location
 
 You can do one of 2 things:
@@ -14,7 +16,7 @@ You can do one of 2 things:
 
 ### Weather
 
-Replace <api-key> inside `weather.py` with your own forecast.io api key.
+Replace <api-key> with your own forecast.io api key.
 You can get yours here: https://developer.forecast.io.
 
 ## Credits
