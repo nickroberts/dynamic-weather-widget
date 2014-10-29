@@ -17,7 +17,7 @@ You can do one of 2 things:
 
 ### Weather
 
-Replace <api-key> with your own forecast.io api key.
+Replace `<api-key>` with your own forecast.io api key.
 You can get yours here: https://developer.forecast.io.
 
 ## Credits
