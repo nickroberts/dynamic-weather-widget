@@ -17,6 +17,7 @@ You will need to edit some configurations in the `weather.py` file.
 
 You can do one of 2 things:
 1. Enter your latitude and longitude, along with your city and region code (state), making sure the dynamic section is commented out.
+
 2. Uncomment the section for the dynamic location, making sure the section where you enter your latitude, longitude, city and region_code.
 
 ### Weather
