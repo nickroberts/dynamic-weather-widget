@@ -1,0 +1,8 @@
+# Ignore hidden folders
+.*/
+
+# Ignore OS generated files
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db

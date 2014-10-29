@@ -1,0 +1,5 @@
+{
+  "name": "Dynamic Weather",
+  "description": "A dynamic weather widget. You will need a forecast.io api key. Please check README.md for instructions.",
+  "author": "Nick Roberts"
+}
